@@ -10,10 +10,10 @@ To build a strong foundation in Data Structures, Algorithms, and Competitive Pro
 
 ### Playlists / Courses
 
-- [Striver’s A2Z DSA Course (YouTube Playlist)](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=Juq8RqOZD3F1VCaE)
+- [Striver’s A2Z DSA Course](https://youtube.com/playlist?list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&si=Juq8RqOZD3F1VCaE)
 - [Competitive Programming by Luv](https://youtube.com/playlist?list=PLauivoElc3ggagradg8MfOZreCMmXMmJ-&si=lYywWALkNDz4SD7f)
 - [ApnaCollege C++ DSA Playlist](https://youtube.com/playlist?list=PLfqMhTWNBTe137I_EPQd34TsgV6IO55pt&si=UFDi5ZgEHWxwPj9m)
-- [Kunal Kushwaha in Java](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=s_gSJjUgPYrQhKpO)
+- [Kunal Kushwaha DSA playlist in Java](https://youtube.com/playlist?list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&si=s_gSJjUgPYrQhKpO)
 
 ## Author – Taslim Ahmed Tamim
 
