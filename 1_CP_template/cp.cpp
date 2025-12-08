@@ -1,4 +1,9 @@
 /*
+    Create a .cpp file and input.txt and output.txt files in the same directory as this file for file I/O.
+    Input will be taken from input.txt and output will be written to output.txt when not running
+*/
+
+/*
 	Compile & Run C++
 
 	Windows:
@@ -10,6 +15,7 @@
 	Linux / macOS:
 	  g++ file_name.cpp -o file_name && ./file_name
 */
+
 
 #include<bits/stdc++.h>
 using namespace std;
