@@ -8,16 +8,16 @@ To build a strong foundation in Data Structures, Algorithms, and Competitive Pro
 
 ### Books
 
-- [*Guide to Competitive Programming](https://drive.google.com/drive/u/3/folders/1S33GlU30IMuVbHRXmjvUad7OElxqxOgq)
-- [CP Handbook](https://drive.google.com/drive/u/3/folders/1S33GlU30IMuVbHRXmjvUad7OElxqxOgq)
-- [Introduction to Algorithms 4th edition](https://drive.google.com/drive/u/3/folders/1S33GlU30IMuVbHRXmjvUad7OElxqxOgq)
-- [Other Book](https://drive.google.com/drive/folders/1S33GlU30IMuVbHRXmjvUad7OElxqxOgq?usp=drive_link)
+- [*Guide to Competitive Programming](https://drive.google.com/file/d/1CKSsdZ21A1l5tg5P7dKGD6ZhE3Sx9jCJ/view?usp=drive_link)
+- [CP Handbook](https://drive.google.com/file/d/1nXpmiw3_JsADhmEhDPJbbmabetOqDLXq/view?usp=drive_link)
+- [Introduction to Algorithms 4th edition](https://drive.google.com/file/d/1yCm10J5ISqQOpmn9HSIOm_LE-kM2qzLg/view?usp=drive_link)
+- [Other books](https://drive.google.com/drive/folders/1S33GlU30IMuVbHRXmjvUad7OElxqxOgq?usp=drive_link)
 
 ### Problem Sheets
 
 - [*CSES Problem Set](https://cses.fi/problemset/list/)
-- [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 - [Striver’s A2Z DSA Course Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
+- [Striver’s CP Sheet](https://takeuforward.org/interview-experience/strivers-cp-sheet/)
 - [A2OJ](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
 
 
