@@ -4,16 +4,27 @@
 */
 
 /*
-	Compile & Run C++
+    Compile & Run C++
 
-	Windows:
-	CMD:
-	  g++ file_name.cpp -o file_name && file_name
-	PowerShell:
-	  g++ file_name.cpp -o file_name; .\file_name.exe
+    Windows:
+    CMD:
+        g++ file_name.cpp -o file_name && file_name.exe
 
-	Linux / macOS:
-	  g++ file_name.cpp -o file_name && ./file_name
+    PowerShell:
+        g++ file_name.cpp -o file_name; .\file_name.exe
+
+    Git Bash:
+        g++ file_name.cpp -o file_name && ./file_name
+
+    Linux / macOS:
+        g++ file_name.cpp -o file_name && ./file_name
+
+*/
+
+/*
+    example:
+        // to compile and run cp.cpp file in windows cmd write:
+        g++ cp.cpp -o cp && cp.exe
 */
 
 
