@@ -27,6 +27,16 @@
         g++ cp.cpp -o cp && cp.exe
 */
 
+/*
+    For other languages:
+
+    C        : gcc file.c -o file && ./file
+    C++      : g++ file.cpp -o file && ./file
+    Java     : javac File.java && java File
+    Python   : python file.py
+    JS       : node file.js
+
+*/
 
 #include<bits/stdc++.h>
 using namespace std;
@@ -64,6 +74,4 @@ int main(){
     }
 
 }
-
-
 
